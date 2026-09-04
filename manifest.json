@@ -1,0 +1,16 @@
+{
+  "name": "Forest Drive Dental Care",
+  "short_name": "Forest Drive",
+  "description": "Adult, family and pediatric dentistry on Forest Drive in Columbia, SC.",
+  "start_url": "/fdd-preview-4b91c7/",
+  "scope": "/fdd-preview-4b91c7/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E2523",
+  "theme_color": "#0E2523",
+  "icons": [
+    { "src": "/fdd-preview-4b91c7/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/fdd-preview-4b91c7/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/fdd-preview-4b91c7/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
